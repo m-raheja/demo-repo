@@ -1,0 +1,26 @@
+package seleniumTestSuite;
+
+import java.util.ArrayList;
+
+public class TestClass14 {
+
+	public static void main(String[] args) {
+		
+		//count the number of names that starts with alphabet A
+		
+		ArrayList<String> names = new ArrayList<String>();
+		names.add("Abhi");
+		names.add("Avi");
+		names.add("Mehak");
+		
+		for(String A: names) {
+			System.out.println(A);
+			
+		}
+		
+		
+		
+
+	}
+
+}

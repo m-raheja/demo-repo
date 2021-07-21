@@ -1,0 +1,28 @@
+package seleniumTestSuite;
+
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class TestCase13 {
+
+	public static void main(String[] args) throws MalformedURLException, IOException {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Mikku\\chromedriver.exe");
+		WebDriver driver= new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get("https://www.rahulshettyacademy.com/AutomationPractice/");
+		String URL=driver.findElement(By.cssSelector("a[href='https://www.soapui.org/']")).getAttribute("href");
+		HttpURLConnection con = (HttpURLConnection) new URL(URL).openConnection();
+		con.setRequestMethod("HEAD");
+		con.connect();
+		int response= con.getResponseCode();
+		System.out.println(response);
+	}
+
+}

@@ -1,0 +1,1654 @@
+!SESSION 2021-01-20 22:06:13.207 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-01-20 22:06:32.015
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-20 22:06:32.015
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4f93303f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62c02089,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-20 22:06:41.871
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-01-30 20:09:10.080 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-01-30 20:09:13.363
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-30 20:09:13.363
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7c9c7e7d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@58701e8c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-30 20:09:22.225
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-04-16 06:51:12.188 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-04-16 06:51:15.766
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 06:51:15.766
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@399a5a52,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1677f98b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-16 06:51:24.380
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-05-11 19:16:13.515 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-05-11 19:16:17.260
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-05-11 19:16:17.260
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6bc08a77,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37922937,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-05-11 19:16:23.152
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-05-13 21:50:38.321 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-05-13 21:50:42.306
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-05-13 21:50:42.306
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@498f1f63,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6250d33c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-05-13 21:50:48.084
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-05-15 15:23:25.520 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-05-15 15:23:28.966
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-05-15 15:23:28.966
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3b7b099b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5abc488d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-05-15 15:23:34.205
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-05-19 21:30:36.299 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-05-19 21:30:41.726
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-05-19 21:30:41.726
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@401d83ce,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3b7b099b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-05-19 21:30:51.137
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-05-23 09:35:40.741 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-05-23 09:35:45.258
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-05-23 09:35:45.258
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3b7b099b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5abc488d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-05-23 09:35:50.976
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.debug.ui 4 120 2021-05-23 09:48:16.317
+!MESSAGE Error logged from Debug UI: 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.FutureTask.awaitDone(FutureTask.java:418)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:203)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.runInUIThreadWithTimeout(SelectedResourceManager.java:262)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getFromUI(SelectedResourceManager.java:240)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getActiveWindow(SelectedResourceManager.java:231)
+	at org.eclipse.debug.ui.DebugUITools.getDebugContext(DebugUITools.java:247)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getFrame(JavaDebugHover.java:97)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getHoverInfo2(JavaDebugHover.java:251)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2021-07-06 14:48:17.391 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-06 14:48:20.804
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-06 14:48:20.804
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@14af57c3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@795949fb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-06 14:48:26.384
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.debug.ui 4 120 2021-07-07 13:28:45.441
+!MESSAGE Error logged from Debug UI: 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.FutureTask.awaitDone(FutureTask.java:418)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:203)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.runInUIThreadWithTimeout(SelectedResourceManager.java:262)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getFromUI(SelectedResourceManager.java:240)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getActiveWindow(SelectedResourceManager.java:231)
+	at org.eclipse.debug.ui.DebugUITools.getDebugContext(DebugUITools.java:247)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getFrame(JavaDebugHover.java:97)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getHoverInfo2(JavaDebugHover.java:251)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2021-07-07 15:45:19.593 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-07 15:45:23.777
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-07 15:45:23.777
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@281028ce,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@46ef7340,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-07 15:45:30.532
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-07 16:11:33.853 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-07 16:11:37.061
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-07 16:11:37.061
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ed463b7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1ae90cb9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-07 16:11:42.356
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-07 16:17:46.113 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-07 16:17:50.472
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-07 16:17:50.472
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2be208db,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ed463b7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-07 16:17:55.403
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-07-07 16:42:11.161
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package seleniumTestSuite;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class TestCase3 {
+
+	public static void main(String[] args) throws InterruptedException {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Mikku\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		
+		String[] veggiArray = {"Cucumber" , "Brocolli", "Beans"}; //array
+		List<String> item = Arrays.asList(veggiArray);
+		driver.manage().window().maximize();
+		driver.get("https://rahulshettyacademy.com/seleniumPractise/");
+		Thread.sleep(3000);
+		int j= 0;
+		//selecting just one veggie and adding it to the cart
+		List<WebElement> listOfVeggies = driver.findElements(By.cssSelector("h4.product-name"));
+		for (int i = 0; i < listOfVeggies.size(); i++) {
+			String[] name = listOfVeggies.get(i).getText().split("-"); //Brocolli - 1 Kg
+			String formattedName= name[0].trim();
+			
+			if (item.contains(formattedName)) {
+				j++;
+	//			driver.findElements(By.xpath("//button[text() ='ADD TO CART']")).get(i).click();
+				product-action
+				if(j == 3) {
+					break;
+				}
+			}
+		}
+		// selecting number of veggies in to the cart. Do it using array:
+		//Array of Strings
+		// String[] veggiArray = {"cucumber" , "Brocolli", "Beans"};
+		
+		driver.quit();
+		
+		
+		
+		
+	}
+
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:474)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:200)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1141)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1318)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-07-07 16:42:11.162
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:474)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:200)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1141)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1318)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-07-07 16:42:11.163
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:474)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:200)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1141)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1318)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-07-07 16:42:15.549
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package seleniumTestSuite;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class TestCase3 {
+
+	public static void main(String[] args) throws InterruptedException {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Mikku\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		
+		String[] veggiArray = {"Cucumber" , "Brocolli", "Beans"}; //array
+		List<String> item = Arrays.asList(veggiArray);
+		driver.manage().window().maximize();
+		driver.get("https://rahulshettyacademy.com/seleniumPractise/");
+		Thread.sleep(3000);
+		int j= 0;
+		//selecting just one veggie and adding it to the cart
+		List<WebElement> listOfVeggies = driver.findElements(By.cssSelector("h4.product-name"));
+		for (int i = 0; i < listOfVeggies.size(); i++) {
+			String[] name = listOfVeggies.get(i).getText().split("-"); //Brocolli - 1 Kg
+			String formattedName= name[0].trim();
+			
+			if (item.contains(formattedName)) {
+				j++;
+	//			driver.findElements(By.xpath("//button[text() ='ADD TO CART']")).get(i).click();
+				product-action
+				if(j == 3) {
+					break;
+				}
+			}
+		}
+		// selecting number of veggies in to the cart. Do it using array:
+		//Array of Strings
+		// String[] veggiArray = {"cucumber" , "Brocolli", "Beans"};
+		
+		driver.quit();
+		
+		
+		
+		
+	}
+
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.getClipboardData(ClipboardOperationAction.java:439)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.doCutCopyWithImportsOperation(ClipboardOperationAction.java:366)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.internalDoOperation(ClipboardOperationAction.java:326)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.run(ClipboardOperationAction.java:276)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:121)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:584)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:653)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:443)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1268)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1036)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1046)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1084)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1513)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4884)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4762)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-07-07 16:42:15.550
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.getClipboardData(ClipboardOperationAction.java:439)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.doCutCopyWithImportsOperation(ClipboardOperationAction.java:366)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.internalDoOperation(ClipboardOperationAction.java:326)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.run(ClipboardOperationAction.java:276)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:121)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:584)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:653)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:443)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1268)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1036)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1046)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1084)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1513)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4884)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4762)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-07-07 16:42:15.551
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1276)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2020)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3764)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1932)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1963)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3023)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2203)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2968)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1372)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2944)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2193)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2965)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3316)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1513)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.getClipboardData(ClipboardOperationAction.java:439)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.doCutCopyWithImportsOperation(ClipboardOperationAction.java:366)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.internalDoOperation(ClipboardOperationAction.java:326)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction.run(ClipboardOperationAction.java:276)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:121)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:584)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:653)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:443)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1268)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1036)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1046)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1084)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1513)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4884)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4762)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+!SESSION 2021-07-08 10:18:35.010 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-08 10:18:38.655
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-08 10:18:38.655
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2f09907,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f53295e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-08 10:18:44.252
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-08 10:21:54.635 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-08 10:21:57.688
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-08 10:21:57.688
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1ae90cb9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3b62c51e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-08 10:22:02.395
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.debug.ui 4 120 2021-07-08 11:13:52.795
+!MESSAGE Error logged from Debug UI: 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.FutureTask.awaitDone(FutureTask.java:418)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:203)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.runInUIThreadWithTimeout(SelectedResourceManager.java:262)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getFromUI(SelectedResourceManager.java:240)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getActiveWindow(SelectedResourceManager.java:231)
+	at org.eclipse.debug.ui.DebugUITools.getDebugContext(DebugUITools.java:247)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getFrame(JavaDebugHover.java:97)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getHoverInfo2(JavaDebugHover.java:251)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2021-07-12 22:53:23.482 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-12 22:53:27.407
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-12 22:53:27.407
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ed463b7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1ae90cb9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-12 22:53:33.927
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-20 12:20:10.805 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-07-20 12:20:13.391
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-07-20 12:20:15.998
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-20 12:20:15.998
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@106ac5f4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5eed2edf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-20 12:20:22.181
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-20 22:28:28.917 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-07-20 22:28:30.929
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-07-20 22:28:34.736
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-20 22:28:34.736
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5746609e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@40da1644,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-20 22:28:41.100
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-21 08:08:22.603 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-21 08:08:25.937
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-21 08:08:25.937
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7dc9b41a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2f97e3de,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-21 08:08:31.947
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-21 08:18:39.581 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/C:/Users/Mikku/eclipse-workspace/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-21 08:18:47.047
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-21 08:18:47.047
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@703947bd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f31b991,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-21 08:18:52.384
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mikku'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 08:25:43.525
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50684 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-44485016\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 50684 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-44485016\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 08:29:43.354
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58028 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-1026288112\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 58028 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-1026288112\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 08:37:59.260
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55243 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 55243 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 08:39:39.503
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55254 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 55254 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 09:35:51.186
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59174 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 59174 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 09:36:22.568
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59178 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 59178 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 09:40:28.021
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59197 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 59197 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 09:42:01.180
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63304 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63304 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 09:43:14.209
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63321 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63321 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 09:46:22.539
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63328 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63328 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 09:53:11.877
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59400 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 59400 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 09:56:37.262
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63002 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng2.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63002 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng2.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:06:41.450
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53054 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 53054 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:09:09.320
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62066 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 62066 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:09:52.632
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62072 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 62072 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:12:32.100
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60976 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 60976 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:16:26.412
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59957 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 59957 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:17:01.803
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59960 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 59960 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:17:16.648
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59962 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-165412112\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 59962 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-165412112\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:17:34.341
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59965 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 59965 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:18:47.099
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59970 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 59970 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:22:47.416
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51371 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-1783187647\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 51371 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-1783187647\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:23:36.790
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51374 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 51374 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:29:40.846
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50290 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 50290 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:38:44.354
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56358 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse--357810810\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 56358 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse--357810810\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:40:30.383
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56360 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-773705057\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 56360 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-773705057\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:42:46.599
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58572 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse--1174062442\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 58572 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse--1174062442\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:43:32.303
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58577 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-273206390\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 58577 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-273206390\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:43:56.026
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58579 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse--113835679\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 58579 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse--113835679\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:44:59.882
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58582 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 58582 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:52:45.735
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64394 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 64394 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:53:31.273
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64402 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 64402 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:54:36.318
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53071 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng2.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 53071 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng2.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 10:58:59.148
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60983 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse--1784877894\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 60983 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse--1784877894\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 11:01:22.873
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62451 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 62451 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 11:02:16.927
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62454 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 62454 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 11:02:50.162
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62457 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 62457 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng3.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 11:07:05.185
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50493 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 50493 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 11:07:29.324
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 65372 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 65372 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 11:19:57.564
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63938 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63938 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 11:25:09.894
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56423 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-206034555\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 56423 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-206034555\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 11:25:16.820
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56427 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 56427 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 11:29:10.937
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56261 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 56261 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 13:40:12.765
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 65245 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-412334574\testng-customsuite.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 65245 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\AppData\Local\Temp\testng-eclipse-412334574\testng-customsuite.xml
+
+!ENTRY org.eclipse.debug.ui 4 120 2021-07-21 15:17:28.636
+!MESSAGE Error logged from Debug UI: 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.FutureTask.awaitDone(FutureTask.java:418)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:203)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.runInUIThreadWithTimeout(SelectedResourceManager.java:262)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getFromUI(SelectedResourceManager.java:240)
+	at org.eclipse.debug.internal.ui.stringsubstitution.SelectedResourceManager.getActiveWindow(SelectedResourceManager.java:231)
+	at org.eclipse.debug.ui.DebugUITools.getDebugContext(DebugUITools.java:247)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getFrame(JavaDebugHover.java:97)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getHoverInfo2(JavaDebugHover.java:251)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 15:19:51.812
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50805 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 50805 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 15:24:26.182
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63876 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63876 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 15:25:23.987
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63881 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63881 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 15:31:27.383
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63570 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63570 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2021-07-21 15:31:57.105
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63574 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Mikku\eclipse\jee-2020-12\eclipse\configuration\org.eclipse.osgi\929\0\.cp\lib\testng-remote.jar:C:\Users\Mikku\eclipse-workspace\TestNGTutorial\bin:C:\Users\Mikku\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Mikku\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Mikku\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Mikku\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63574 -protocol json -d C:\Users\Mikku\eclipse-workspace\TestNGTutorial\test-output C:\Users\Mikku\eclipse-workspace\TestNGTutorial\testng.xml

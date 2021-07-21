@@ -1,0 +1,23 @@
+package test;
+
+
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+
+public class TestCase3 {
+
+	@Parameters({"url"})
+	@Test(groups = {"smoke"})
+	public void Demo4(String urlname){
+		System.out.println("WHY");
+		System.out.println(urlname);
+	}
+	
+	@BeforeSuite
+	public void thiswillrun(){
+		System.out.println("I am telling u");
+	}
+	
+
+}

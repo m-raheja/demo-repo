@@ -1,0 +1,22 @@
+package test;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Test;
+
+public class TestCase3 {
+
+	
+	@Test
+	public void Demo4(){
+		System.out.println("WHY");
+	}
+	
+	@BeforeSuite
+	public void thiswillrun(){
+		System.out.println("I am telling u");
+	}
+	
+
+}
